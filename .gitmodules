@@ -1,0 +1,7 @@
+[submodule "styrofoamhouse/themes/ananke"]
+	path = styrofoamhouse/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "styrofoamhouse/public"]
+	path = styrofoamhouse/public
+	url = https://github.com/styrofoamhouse/styrofoamhouse.github.io
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = "https://styrofoamhouse.github.io/"
+languageCode = "en-us"
+title = "Styrofoam House"
+theme = "ananke"
